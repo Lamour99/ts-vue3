@@ -7,7 +7,7 @@
 首先复制仓库链接, 下载仓库到本地
 
 ```xml
-git clone https://github.com/chenbozhi/vue-ts-mall-demo.git
+git clone
 ```
 
 cmd命令(每个人知识储备程度不同,我就这样尽可能详细讲吧, 希望能帮到你) 进入到vue-ts-mall-demo文件夹
