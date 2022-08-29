@@ -62,11 +62,6 @@ http://localhost:8081/
 
 ![image-20220625153535530](https://firstbucket-1300448090.cos.ap-chengdu.myqcloud.com/cbz_book_images/image-20220625153535530.png)
 
-## 编写流程(可代替看视频)
-
-> 想学别的,没有想法再去完善了, 就先这样吧
-
-这是我学习该视频时边看边敲的过程,进行记录
 
 ### 项目搭建
 
